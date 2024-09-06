@@ -125,4 +125,4 @@ theme_minimal() # Simplify the plot layout
 ### Personal Reflection: 2
 
 - How has your first two weeks of the new semester been?"
-  - TODO
+  - Not bad, Kapfhammer rejected my comp idea for the most part, so I'm doing damage control to find a comp that is suitable that I also find enjoyable.
