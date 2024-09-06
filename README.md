@@ -50,7 +50,7 @@ After you have pushed your work to your repository, please visit the repository 
 - First, [install `pipx`](https://pypa.github.io/pipx/installation/)
 - Then, install `gatorgrade` with `pipx install gatorgrade`
 You might also want to install VsCode to help you edit code as text files.
-- Install `VSCode` or another editor that will come in handy when working with code in textfiles. See [https://code.visualstudio.com/docs/setup/setup-overview](https://code.visualstudio.com/docs/setup/setup-overview) for details on installing this editor.
+- Install `VSCode` or another editor that will come in handy when working with code in text files. See [https://code.visualstudio.com/docs/setup/setup-overview](https://code.visualstudio.com/docs/setup/setup-overview) for details on installing this editor.
 
 ## Seeking Assistance
 
